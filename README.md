@@ -2,7 +2,8 @@
  AI and ML Resources 
 
 
-**To study** \\
+**To study** 
+
 1.Maths: 
    - linear Algebra
    - Statistics
