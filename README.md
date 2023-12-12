@@ -25,7 +25,7 @@
    - Sklearn 
    - Pytorch or Tensorflow 
 
-🎥 ** Youtube Channel ** 
+🎥 **Youtube Channel** 
 
 - ML 
    - Soufi_AI_geria 
