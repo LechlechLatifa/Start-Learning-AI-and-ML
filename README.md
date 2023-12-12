@@ -47,7 +47,8 @@
    - Stanford CS224N: NLP with Deep Learning
 
 - Others
-   - 3Blue1Brown 
+   - 3Blue1Brown
+   - Institut des Hautes Études Scientifiques (IHÉS)
 
 :books: **Books**
 - Pattern Recognition and Machine Learning 
