@@ -18,7 +18,7 @@
    - Deep learning (basics)
    - Deep Reinforcement learning 
  
-**For the coding part:**  Python (of course :) ) 
+:computer: **For the coding part:**  Python (of course :) ) 
    - Numpy 
    - Pandas (Polars)
    - Sklearn 
