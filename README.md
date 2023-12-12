@@ -39,7 +39,8 @@
 
 - Computer Vision
    - First Principles of Computer Vision
-   - Self-Driving Cars	
+   - Self-Driving Cars
+     
          - Self-Driving Cars - Lecture ( Tübingen Machine Learning) 
 - NLP
    - Andrej Karpathy
