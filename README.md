@@ -8,7 +8,7 @@
    - linear Algebra
    - Statistics
    - Probability
-   - 
+     
 2. ML:
    - Supervised learning 
    - Unsupervised learning 
@@ -23,3 +23,4 @@
    - Pandas (Polars)
    - Sklearn 
    - Pytorch or Tensorflow 
+
