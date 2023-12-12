@@ -4,14 +4,16 @@
 
 **To study** 
 
-1.Maths: 
+1. Maths: 
    - linear Algebra
    - Statistics
-   - Probability 
+   - Probability
+   - 
 2. ML:
    - Supervised learning 
    - Unsupervised learning 
-   - Reinforcement learning 
+   - Reinforcement learning
+     
 3. Deep learning:
    - Deep learning (basics)
    - Deep Reinforcement learning 
