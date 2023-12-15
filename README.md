@@ -55,11 +55,11 @@
 - Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
 🗒️ **Interview Questions**
-   - ML Stack Cafe 
-   - Simplilearn
+   - [ML Stack Cafe](https://www.mlstack.cafe/)
+   - [Simplilearn](https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions)
 
 🏫 **Summer School**
-  - (https://github.com/sshkhr/awesome-mlss) 
+  - https://github.com/sshkhr/awesome-mlss 
 
 **Others Links**
    - https://www.carmin.tv/en/ 
