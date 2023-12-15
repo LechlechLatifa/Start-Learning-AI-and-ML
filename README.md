@@ -52,5 +52,23 @@
 
 :books: **Books**
 - Pattern Recognition and Machine Learning 
-- Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville 
+- Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+
+🗒️ **Interview Questions**
+   - ML Stack Cafe 
+   - Simplilearn
+
+🏫 **Summer School**
+  - https://github.com/sshkhr/awesome-mlss 
+
+- Others Links
+   - https://www.carmin.tv/en/ 
+   - https://github.com/eugeneyan/applied-ml 
+   - https://paperswithcode.com/ 
+   - Roadmap 
+   - https://github.com/AMAI-GmbH/AI-Expert-Roadmap 	
+   - https://github.com/markredito/selfstudy-roadmap-ml-ai 
+   - https://github.com/ZhiningLiu1998/awesome-machine-learning-resourc 
+   - https://github.com/datascienceid/machine-learning-resources 
+
 
