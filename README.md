@@ -59,7 +59,7 @@
    - Simplilearn
 
 🏫 **Summer School**
-  - https://github.com/sshkhr/awesome-mlss 
+  - (https://github.com/sshkhr/awesome-mlss) 
 
 **Others Links**
    - https://www.carmin.tv/en/ 
