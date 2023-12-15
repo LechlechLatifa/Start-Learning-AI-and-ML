@@ -25,6 +25,7 @@
    - [Sklearn](https://scikit-learn.org/stable/) 
    - [PyTorch](https://pytorch.org/) or [Tensorflow](https://www.tensorflow.org/api_docs)
    - [GPyTorch](https://docs.gpytorch.ai/en/stable/)
+   - [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/get_started/introduction.html)
 
 🎥 **Youtube Channel** 
 
