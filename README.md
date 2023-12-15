@@ -61,7 +61,7 @@
 🏫 **Summer School**
   - https://github.com/sshkhr/awesome-mlss 
 
-- Others Links
+**Others Links**
    - https://www.carmin.tv/en/ 
    - https://github.com/eugeneyan/applied-ml 
    - https://paperswithcode.com/ 
