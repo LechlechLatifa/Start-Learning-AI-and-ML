@@ -20,10 +20,11 @@
  
 :computer: **For the coding part:** 
    - Python (of course :smiley: ) 
-   - Numpy 
-   - Pandas or Polars
-   - Sklearn 
-   - Pytorch or Tensorflow 
+   - [Numpy](https://numpy.org/doc/stable/user/absolute_beginners.html) 
+   - [Pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/01_table_oriented.html) or [Polars](https://pola-rs.github.io/polars/py-polars/html/reference/dataframe/index.html)
+   - [Sklearn](https://scikit-learn.org/stable/) 
+   - [PyTorch](https://pytorch.org/) or [Tensorflow](https://www.tensorflow.org/api_docs)
+   - [GPyTorch]([https://gpytorch.ai/](https://docs.gpytorch.ai/en/stable/))
 
 🎥 **Youtube Channel** 
 
@@ -36,6 +37,7 @@
    - [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
    - [serrano academy](https://www.youtube.com/@SerranoAcademy)
    - [Krish Naik](https://www.youtube.com/@krishnaik06)
+   - [edureka!](https://www.youtube.com/@edurekaIN)
 
 - Computer Vision
    - [First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258)
@@ -47,6 +49,9 @@
 - Others
    - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
    - [Institut des Hautes Études Scientifiques (IHÉS)](https://www.youtube.com/@IhesFr)
+   - [Two minute papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+   - [Lex Fridman](https://www.youtube.com/@lexfridman/videos)
+   - [sentdex](https://www.youtube.com/@sentdex) 
 
 :books: **Books**
 - Pattern Recognition and Machine Learning 
