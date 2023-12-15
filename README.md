@@ -48,6 +48,7 @@
 
 - Others
    - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+   - [Oxford Mathematics](https://www.youtube.com/@OxfordMathematics)
    - [Institut des Hautes Études Scientifiques (IHÉS)](https://www.youtube.com/@IhesFr)
    - [Two minute papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
    - [Lex Fridman](https://www.youtube.com/@lexfridman/videos)
