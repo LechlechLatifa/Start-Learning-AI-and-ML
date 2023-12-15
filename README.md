@@ -21,7 +21,7 @@
 :computer: **For the coding part:** 
    - Python (of course :smiley: ) 
    - Numpy 
-   - Pandas (Polars)
+   - Pandas or Polars
    - Sklearn 
    - Pytorch or Tensorflow 
 
