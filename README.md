@@ -24,7 +24,7 @@
    - [Pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/01_table_oriented.html) or [Polars](https://pola-rs.github.io/polars/py-polars/html/reference/dataframe/index.html)
    - [Sklearn](https://scikit-learn.org/stable/) 
    - [PyTorch](https://pytorch.org/) or [Tensorflow](https://www.tensorflow.org/api_docs)
-   - [GPyTorch]([https://gpytorch.ai/](https://docs.gpytorch.ai/en/stable/))
+   - [GPyTorch]([https://gpytorch.ai/](https://docs.gpytorch.ai/en/stable/)
 
 🎥 **Youtube Channel** 
 
