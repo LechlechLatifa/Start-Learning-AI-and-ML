@@ -56,6 +56,7 @@
    - [sentdex](https://www.youtube.com/@sentdex) 
 
 :books: **Books**
+- [Matrix Analysis by Roger A. Horn and Charles R. Johnson](https://assets.cambridge.org/97805218/39402/frontmatter/9780521839402_frontmatter.pdf)
 - Pattern Recognition and Machine Learning 
 - [Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
