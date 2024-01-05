@@ -75,6 +75,9 @@
    - https://github.com/AMAI-GmbH/AI-Expert-Roadmap 	
    - https://github.com/markredito/selfstudy-roadmap-ml-ai 
    - https://github.com/ZhiningLiu1998/awesome-machine-learning-resourc 
-   - https://github.com/datascienceid/machine-learning-resources 
+   - https://github.com/datascienceid/machine-learning-resources
+
+[Advice for machine learning beginners | Andrej Karpathy and Lex Fridman](https://youtu.be/I2ZK3ngNvvI?si=_-wz_Lg4rOuIZXmy)
+
 
 
