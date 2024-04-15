@@ -56,9 +56,12 @@
    - [sentdex](https://www.youtube.com/@sentdex) 
 
 :books: **Books**
+- [Pattern Recognition and Machine Learning Christopher M. Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 - [Matrix Analysis by Roger A. Horn and Charles R. Johnson](https://assets.cambridge.org/97805218/39402/frontmatter/9780521839402_frontmatter.pdf)
-- Pattern Recognition and Machine Learning 
+- [probabilistic machine learning advanced topics by kevin patrick murphy](https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/)
+- [Artificial Intelligence: A Modern Approach, 4th US ed. by Stuart Russell and Peter Norvig](https://aima.cs.berkeley.edu/)
 - [Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+- [Introduction to Artificial Inteligence by Wolfgang Ertel](https://link.springer.com/book/10.1007/978-3-319-58487-4)
 
 🗒️ **Interview Questions**
    - [ML Stack Cafe](https://www.mlstack.cafe/)
