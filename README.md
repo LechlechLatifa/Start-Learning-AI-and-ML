@@ -29,7 +29,7 @@
 
 🎥 **Youtube Channel** 
 
-- ML 
+- ML   
    - [Soufi_AI_geria](https://youtube.com/playlist?list=PL0F47I2_gOn0bqpcsPhMd3SiOZ9kfBL1w&si=_-1rSFwdSmY1HhJh)
    - [Machine Intelligence - Prof H.R.Tizhoosh](https://youtube.com/playlist?list=PLvan4zSb2RaoRGHbSP15RYrUycboAmmLL&si=RLd9DrMbmox70H3K) → Kimia Lab
    - [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
@@ -39,6 +39,9 @@
    - [serrano academy](https://www.youtube.com/@SerranoAcademy)
    - [Krish Naik](https://www.youtube.com/@krishnaik06)
    - [edureka!](https://www.youtube.com/@edurekaIN)
+   - [Victor Lavrenko](https://www.youtube.com/@vlavrenko/videos)
+   - [DeepFindr](https://www.youtube.com/@DeepFindr)
+   - [Antonio Longa](https://www.youtube.com/@94longa2112/videos)
 
 - Computer Vision
    - [First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258)
@@ -53,7 +56,8 @@
    - [Institut des Hautes Études Scientifiques (IHÉS)](https://www.youtube.com/@IhesFr)
    - [Two minute papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
    - [Lex Fridman](https://www.youtube.com/@lexfridman/videos)
-   - [sentdex](https://www.youtube.com/@sentdex) 
+   - [sentdex](https://www.youtube.com/@sentdex)
+   - [LLMs Explained - Aggregate Intellect - AI.SCIENCE](https://www.youtube.com/@ai-science/videos)
 
 :books: **Books**
 - [Pattern Recognition and Machine Learning Christopher M. Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
@@ -62,6 +66,10 @@
 - [Artificial Intelligence: A Modern Approach, 4th US ed. by Stuart Russell and Peter Norvig](https://aima.cs.berkeley.edu/)
 - [Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 - [Introduction to Artificial Inteligence by Wolfgang Ertel](https://link.springer.com/book/10.1007/978-3-319-58487-4)
+- [Dive into Deep Learning](https://d2l.ai/index.html)
+- [Deep Learning](https://www.deeplearningbook.org/)
+- [Deep Learning Foundations and Concepts](https://link.springer.com/chapter/10.1007/978-3-031-45468-4_6)
+- [Introduction to Deep Learning for Healthcare](https://link.springer.com/book/10.1007/978-3-030-82184-5)
 
 🗒️ **Interview Questions**
    - [ML Stack Cafe](https://www.mlstack.cafe/)
